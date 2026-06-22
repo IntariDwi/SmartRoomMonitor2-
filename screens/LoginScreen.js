@@ -25,6 +25,9 @@ export default function LoginScreen() {
 
   const [fontsLoaded] = useFonts({ PressStart2P_400Regular });
 
+  // [Firebase Auth] Login menggunakan signInWithEmailAndPassword,
+  // register menggunakan createUserWithEmailAndPassword.
+  // Sesi user dikelola Firebase dan dipantau via onAuthStateChanged di App.js.
   const handleAuth = async () => {
     if (!email || !password) {
       Alert.alert('Error', 'Email dan password harus diisi!');
