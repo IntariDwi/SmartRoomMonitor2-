@@ -5,8 +5,8 @@
 | Nama | Username GitHub | Role | Tugas |
 |---|---|---|---|
 | Intari Dwi | IntariDwi | UI/UX & State Specialist | Layout, navigasi, state management |
-| [Nama Anggota 2] | jujuna-dika | API & Network Specialist | Axios, fetch data Firebase, error handling |
-| [Nama Anggota 3] | natunrtmm | Cloud Database & Auth Specialist | Firebase Auth, Firestore, ESP32 |
+| Andika Marcellino | jujuna-dika | API & Network Specialist | Axios, fetch data Firebase, error handling |
+| Aminatu Nur Utammi | natunrtmm | Cloud Database & Auth Specialist | Firebase Auth, Firestore, ESP32 |
 
 ## Deskripsi Aplikasi
 
